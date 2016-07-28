@@ -212,7 +212,7 @@ U 1 1 5798B15B
 P 2200 3150
 F 0 "P101" H 2200 3300 50  0000 C CNN
 F 1 "CONN_01X02" V 2300 3150 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x02" H 2200 3150 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.00mm" H 2200 3150 50  0001 C CNN
 F 3 "" H 2200 3150 50  0000 C CNN
 	1    2200 3150
 	0    -1   1    0   
@@ -223,7 +223,7 @@ U 1 1 5798CE6C
 P 8550 1950
 F 0 "P102" H 8550 2250 50  0000 C CNN
 F 1 "CONN_01X05" V 8650 1950 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x05" H 8550 1950 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x05_Pitch2.00mm" H 8550 1950 50  0001 C CNN
 F 3 "" H 8550 1950 50  0000 C CNN
 	1    8550 1950
 	1    0    0    -1  
